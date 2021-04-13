@@ -1,0 +1,30 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+button,
+input {
+	padding: 0;
+	box-sizing: border-box;
+}
+body {
+	margin: 0 auto;
+}
+.google {
+	display: flex;
+	justify-content: center;
+	margin-top: 25%;
+}
+.btn {
+	background-color: rgb(3, 192, 60);
+	border: none;
+	cursor: pointer;
+	color: #fff;
+	padding: 10px 35px;
+}
+.text {
+	border: 1.5px solid rgb(230, 0, 0);
+	border-radius: 5px 0 0 5px;
+	padding: 0 20px;
+}
